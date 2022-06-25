@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    background-color: chartreuse;
+}
+table{
+    background-color: pink;
+    border: 4px solid blue;
+    margin-left: 500px;
+    width: 40%;
+    border-collapse: collapse;
+    text-align: center;
+}
+table td{  
+    padding: 12px;  
+   
+    font-size: 1em;  
+    text-align: center;  
+}  
+table tr{  
+    background-color: peachpuff;  
+}  
+table th{  
+    background-color: aqua;  
+   
+    padding: 10px;  
+}  
